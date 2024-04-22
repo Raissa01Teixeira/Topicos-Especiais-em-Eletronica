@@ -1,0 +1,47 @@
+# Máquina de corte a laser
+
+## O que é?
+
+A máquina de corte a laser é uma CNC (Controle numérico computadorizado) que trabalha com precisão movendo os eixos cartesianos sendo controlada por um computador, no caso dessa máquina são os eixos x e y, que corta e grava alguns materias como: mdf, acrílico, papelão, tecido e outros.
+
+## Como Funciona?
+
+O laser da máquina é gerado por um tubo atrás da máquina que tem gás carbônico, ele precisa de uma refrigeração, então tem outro tubo que passa água, o laser sai do tubo e é refletido por três espelhos, e depois passa por uma lente e daí ele atinge o material a ser cortado.
+
+## Projeto no inkscape e makercase
+
+O makercase é um site de fazer caixas de todos os tipos e tamanhos, fiz uma 4x4 cm.
+
+![](images/makecasebox.png){width="472"}
+
+Utilizei o Inkscape para colocar as imagens na caixa.
+
+![](images/sailormoon_corte_laser-01.png){width="610"}
+
+## Projeto feito
+
+# Impressora 3D
+
+## O que é?
+
+A impressora 3D também é uma CNC, mas a diferença dela é por que tem três eixos, que são: x, y, z. Por causa de seus três eixos é que consegue fazer em três dimenssões, o material usado é o PLA.
+
+## Como funciona?
+
+## Projeto no Ultimaker e Ultimaker Thingiverse
+
+O Ultimaker Thingiverse é um site com vários modelos de impressões que podem ser feitas na impressora 3D. Na imagem a baixo foi o modelo que eu escolhi desse site.
+
+![](images/613ba551fd6f422dd8f2730f14f5adb0.png){width="474"}
+
+Já o Ultimaker é utlizado para o fatiamento, podendo escolher o tamanho do objeto a ser imprimido, colocar suporte se precisar, velocidade da impressão, qualidade que no caso quanto maior for a porcentagem, mais resistente e pesado será o objeto, e também irá demorar mais horas e gastar mais material.
+
+## Projeto final
+
+Na imagem a baixo mostra a máquina imprimindo o objeto.
+
+![](images/IMG_20240419_094054.jpg){width="9.7cm"}
+
+Na imagem a seguir mostra o objeto finalizado.
+
+![](images/IMG-20240419-WA0004-01.jpeg){width="397"}
